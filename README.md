@@ -1,6 +1,6 @@
 <img src="./svg.svg" alt="" />
 <h3 align="center">Full Stack Developer</h3>
-##<p align="center">¡Hola! Soy Facundo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Full Stack Developer, con ganas de trabajar para el 🌍.
+<p align="center">¡Hola! Soy Facundo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Full Stack Developer, con ganas de trabajar para el 🌍.
 
 ✔ Soy una persona muy curiosa y creativa, apasionada por el aprendizaje y los desafíos. En esta industria IT estoy decidido a crecer y nunca dejar de aprender. 
   
@@ -39,4 +39,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/facuramirez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "framirezforsyth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   
