@@ -1,3 +1,5 @@
+<img src="./svg.svg" alt="" />
+
 ### Hi there 👋
 
 <!--
