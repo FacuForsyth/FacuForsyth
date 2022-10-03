@@ -1,10 +1,15 @@
 <img src="./svg.svg" alt="" />
 <h3 align="center">Full Stack Developer</h3>
-<p align="center">¡Hola! Soy Facundo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Full Stack Developer, con ganas de trabajar para el 🌍.
+<p align="center">¡Hola! Soy Facundo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Full Stack Developer, con ganas de trabajar para el 🌍. Gran capacidad para cooperar en equipo y consolidar proyectos web con el mayor entusiasmo.
 
 ✔ Soy una persona muy curiosa y creativa, apasionada por el aprendizaje y los desafíos. En esta industria IT estoy decidido a crecer y nunca dejar de aprender. 
   
-💻 Mi objetivo es poder desempeñar mi labor diario en un ambiente empresarial que permita explotar mis capacidades, aportando a la capacitación y el crecimiento personal. Entendiendo eso como un crecimiento mutuo.</p>
+💻 Mi objetivo es poder desempeñar mi labor diario en un ambiente empresarial que permita explotar mis capacidades, aportando a la capacitación y el crecimiento personal. Entendiendo eso como un crecimiento mutuo.
+
+📚 Mi experiencia académica mas destacada en el rubro fue la del ultimo año, ya que me desempeñe como estudiante de desarrollador Full Stack en Henry, en donde aprendí y perfeccione mis bases de Back-end y Front-end, sumándole un excelente uso de JavaScript, con sus librerías y frameworks.
+También me recibí de Contador Publico, en el cual ejercí la profesión durante 3 años, por lo cual tengo experiencia laboral.
+Mi nivel de Ingles actual se encuentra en B2 siempre buscando realizar mas cursos para pulirlo.
+</p>
 
  ## 🛠 &nbsp;Tecnologias
  
